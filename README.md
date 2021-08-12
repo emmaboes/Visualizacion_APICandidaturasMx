@@ -1,6 +1,6 @@
 # Visualizacion_APICandidaturasMx
 
-Script para generar con [ggplot2](https://ggplot2.tidyverse.org/) y [mxmaps](https://www.diegovalle.net/mxmaps/) visualizaciones relacionadas a género tomando como base los datos abiertos del repositorio de Github de [API Candidaturas MX v1.6](https://www.apielectoral.mx/). 
+Script para generar visualizaciones relacionadas a género con [ggplot2](https://ggplot2.tidyverse.org/) y [mxmaps](https://www.diegovalle.net/mxmaps/) tomando como base los datos abiertos del repositorio de Github de [API Candidaturas MX v1.6](https://www.apielectoral.mx/). 
 Para una explicación paso a paso del código consultar el tutorial disponible en [Escuela de Datos](https://escueladedatos.online/tutorial-visualizaciones-relacionadas-a-genero-usando-r/).
 
 ## Visualizaciones disponibles
